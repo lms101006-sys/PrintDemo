@@ -1,4 +1,4 @@
-name = "Alice"
+name = "minseon"
 age = 25
 score = 95.5
 
