@@ -1,5 +1,5 @@
 name = "Alice"
-age = 20
+age = 25
 score = 95.5
 
 print("Hello, Python!")
